@@ -1,7 +1,7 @@
 $ModuleName = "Domain-Mgmt"
-$psdir = "C:\program files\WindowsPowerShell\Modules\$ModuleName\"
+$psdir = "C:\program files\WindowsPowerShell\Modules\$ModuleName"
 $url = "https://raw.githubusercontent.com/rob89m/$ModuleName/master/$ModuleName.psm1"
-$output = "C:\Program Files\WindowsPowerShell\Modules\$ModuleName\$ModuleName.psm1"
+$output = "$psdir\$ModuleName.psm1"
 
 # Check if PS Module directory exists and create is missing
 if (!(Test-Path $psdir))
