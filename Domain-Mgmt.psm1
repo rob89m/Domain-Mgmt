@@ -5,10 +5,8 @@
   .NOTES
     Version:	1.0
     Author: 	Robert Taylor
-    Email:  	robert.taylor@andor.com.au
+    Email:  	rob89m@outlook.com
 
-  .LINK
-    https://andor.com.au
 #>
 
 Function Export-ADBlob
