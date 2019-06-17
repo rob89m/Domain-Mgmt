@@ -3,8 +3,9 @@
     Set of modules to simplify offline domain attach process
 
   .NOTES
-    Author: Robert Taylor
-    Email:  robert.taylor@andor.com.au
+    Version:	1.0
+    Author: 	Robert Taylor
+    Email:  	robert.taylor@andor.com.au
 
   .LINK
     https://andor.com.au
